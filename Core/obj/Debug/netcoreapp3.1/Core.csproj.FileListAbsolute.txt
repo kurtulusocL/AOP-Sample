@@ -1,0 +1,13 @@
+C:\Users\kurtulusocL\Desktop\AOP_Sample\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\kurtulusocL\Desktop\AOP_Sample\Core\bin\Debug\netcoreapp3.1\Core.runtimeconfig.json
+C:\Users\kurtulusocL\Desktop\AOP_Sample\Core\bin\Debug\netcoreapp3.1\Core.runtimeconfig.dev.json
+C:\Users\kurtulusocL\Desktop\AOP_Sample\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\kurtulusocL\Desktop\AOP_Sample\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\kurtulusocL\Desktop\AOP_Sample\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+C:\Users\kurtulusocL\Desktop\AOP_Sample\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurtulusocL\Desktop\AOP_Sample\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\kurtulusocL\Desktop\AOP_Sample\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\kurtulusocL\Desktop\AOP_Sample\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\kurtulusocL\Desktop\AOP_Sample\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\kurtulusocL\Desktop\AOP_Sample\Core\obj\Debug\netcoreapp3.1\Core.pdb
+C:\Users\kurtulusocL\Desktop\AOP_Sample\Core\obj\Debug\netcoreapp3.1\Core.genruntimeconfig.cache
