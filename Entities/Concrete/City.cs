@@ -8,6 +8,8 @@ namespace Entities.Concrete
 {
     public class City : IEntity
     {
-        public string Name { get; set; }
+         public int Id { get; set; }
+         public string Name { get; set; }
+         public int CityId { get; set; }
     }
 }
