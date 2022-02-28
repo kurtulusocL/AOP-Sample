@@ -9,8 +9,7 @@ namespace Business.Abstract
     public interface ICountryService
     {
         IDataResult<Country> GetById(int countryId);
-        IDataResult<List<Country>> GetList();
-        IDataResult<List<Country>> GetListByCity(int cityId);
+        IDataResult<List<Country>> GetList();        
         IResult Add(Country country);
         IResult Delete(Country country);
         IResult Update(Country country);
