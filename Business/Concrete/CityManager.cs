@@ -38,6 +38,11 @@ namespace Business.Concrete
         {
             return new SuccessDataResult<List<City>>(_cityDal.GetList().ToList());
         }
+        
+        public IDataResult<List<City>> GetListByCity(int countryId)
+        {
+            return new SuccessDataResult<List<City>>(_cityDal.GetList(p => p.CountryId == countryId).ToList());
+        }
 
         public IResult Update(City city)
         {
