@@ -10,7 +10,7 @@ namespace Business.Abstract
     {
         IDataResult<City> GetById(int cityId);
         IDataResult<List<City>> GetList();
-        IDataResult<List<City>> GetListByCity(int cityId);
+        IDataResult<List<City>> GetListByCity(int countryId);
         IResult Add(City city);
         IResult Delete(City city);
         IResult Update(City city);
