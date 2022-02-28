@@ -57,11 +57,6 @@ namespace Business.Concrete
             return new SuccessDataResult<List<Country>>(_countryDal.GetList().ToList());
         }
 
-        public IDataResult<List<Country>> GetListByCity(int cityId)
-        {
-            return new SuccessDataResult<List<Country>>(_countryDal.GetList(p => p.CityId == cityId).ToList());
-        }
-
         [SecuredOperation("Product.List,Admin")]
         [LogAspect(typeof(FileLogger))]
         [CacheAspect(duration: 10)]
